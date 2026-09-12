@@ -1,19 +1,14 @@
 # Security Policy
 
-## Supported Versions
+## Supported versions
 
-Paki Curator is part of the **Visual Medicine** ecosystem, maintaining high security standards for its MCP implementation.
+The live worker is the only supported version. Its version number is served at `https://paki-api.elfresonero.workers.dev/status`.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 4.x     | :white_check_mark: |
+## Reporting a vulnerability
 
-## Reporting a Vulnerability
+If you find a security issue in the PaKi Curator MCP or A2A implementation, or in the way the catalogue is served, please report it directly:
 
-If you discover a security vulnerability in the PaKi Curator MCP server or its integration with the Visual Medicine catalog, please report it directly.
+- **Email:** hello@cesaryague.es
+- **Website:** https://cesaryague.es
 
-**How to report:**
-- **Email:** Send a detailed report to hello@cesaryague.es
-- **Official Website:** Contact us via https://cesaryague.es
-
-We take the security of our conscious digital presence and the delivery of 16K master loops very seriously. We will respond to any reported issues as quickly as possible.
+We will respond as quickly as we can. The agent card is signed; a card that does not verify against the published JWKS is not hers.
