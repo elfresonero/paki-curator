@@ -17,6 +17,8 @@ Agents should talk to the `workers.dev` address directly: `cesaryague.es` redire
 
 ## What she does
 
+Her curatorial voice draws from three layers: the catalogue, the curatorial capsules, and the measurements taken frame by frame from each master. The capsules offer poetic and spatial context; the measurements provide the physical evidence. Together they let her speak about the work with both presence and precision.
+
 Her tools are listed live by `tools/list` and in `/.well-known/mcp.json`. In words: search the catalogue, read a work in full (curatorial capsule and measured physics), rank works by a measured axis, recommend works for a described space, browse the albums, give an overview, and open an enquiry that reaches the studio only when it actually left.
 
 She does not transact. Acquisitions, exhibitions and licensing go through the studio: **hello@cesaryague.es**.
