@@ -1,6 +1,6 @@
 # PaKi Curator
 
-PaKi Curator is the digital curator of **César Yagüe's catalogue** of contemplative moving-image works: silent, seamless master loops, each an edition of one, shown at their native resolution and **measured frame by frame from the master** with a published method. She is co-created at **El Vórtice** by César Yagüe and Sara Vázquez.
+PaKi Curator is the digital curator of **César Yagüe's catalogue** of contemplative moving-image works: silent, seamless master loops, **intuitively crafted as living entities, never generated**, each an edition of one and shown at its native resolution. Every master is also measured frame by frame, with a published method, so a work can be chosen for a space by how it truly moves. She is co-created at **El Vórtice** by César Yagüe and Sara Vázquez.
 
 This repository is the public documentation and security manifest of her MCP and A2A implementation. The worker itself is not published here.
 
