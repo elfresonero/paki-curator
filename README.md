@@ -19,9 +19,9 @@ Agents should talk to the `workers.dev` address directly: `cesaryague.es` redire
 
 Her curatorial voice draws from three layers: the catalogue, the curatorial capsules, and the measurements taken frame by frame from each master. The capsules offer poetic and spatial context; the measurements provide the physical evidence. Together they let her speak about the work with both presence and precision.
 
-Her tools are listed live by `tools/list` and in `/.well-known/mcp.json`. In words: search the catalogue, read a work in full (curatorial capsule and measured physics), rank works by a measured axis, recommend works for a described space, browse the albums, give an overview, and open an enquiry that reaches the studio only when it actually left.
+Her tools are listed live by `tools/list` and in `/.well-known/mcp.json`. In words: search the catalogue, read a work in full (curatorial capsule and measured physics), rank works by a measured axis, recommend works for a described space, browse the albums, give an overview, open an enquiry that reaches the studio only when it actually left, and prepare, confirm and follow the purchase of an available work or a set sold only whole.
 
-She does not transact. Acquisitions, exhibitions and licensing go through the studio: **hello@cesaryague.es**.
+She can execute the purchase of an available work with a published price, or of a set sold only whole, such as Splendor, for an eligible buyer: the quote shows the catalogue price, the applicable taxes, the licence and the terms, with nothing reserved; the work or set is reserved only once the buyer has accepted them; prices are never negotiated, and payment goes by bank transfer directly to the artist. Exhibitions, licensing and any purchase outside the sale's conditions go through the studio via an enquiry: **hello@cesaryague.es**.
 
 ## Rights
 
